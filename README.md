@@ -48,6 +48,7 @@ This Discord bot allows for quick access to Pokemon, moves, power, etc. for the 
 * Navigate into the Bot folder using 'cd Bot_folder'
 * Type 'node bot.js & disown'
 * The bot will now run as long as the EC2 instance is running
+	
 	**NOTE: You may be charged even on the free tier level, depending on usage!**
 	
 ## Commands (case-sensitive)
